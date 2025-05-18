@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">welcome to my profile,<br>here i publish some code that i make<br>they might not be the best as i'm not really a professional<br>if you have any criticisms please let me know<br>i'm interested in computer science</p>
+<p align="center">welcome to my profile,<br>i share code i’ve written- nothing fancy, just stuff i’m working on.<br>i’m not a professional, just learning as i go.<br>if you’ve got feedback, feel free to send it my way.<br>i’m into computer science and seeing where it takes me.</p>
 
 ###
 
